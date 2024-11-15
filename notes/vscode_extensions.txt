@@ -1,0 +1,58 @@
+# VSCode Extensions yg kupakai 🚀
+
+Auto Rename Tag
+- Otomatis update closing tag HTML/XML ketika opening tag diubah
+
+Better Comments 
+- Bikin komen jd lebih berwarna & mudah dibaca dgn highlight khusus
+
+Code Runner
+- Jalanin code langsung dari VSCode tanpa perlu buka terminal
+
+Code Spell Checker
+- Ngecek typo/salah ketik dalam code
+
+CSS Peek
+- Liat preview & definisi CSS langsung dari HTML file
+
+Draw.io Integration
+- Bikin diagram & flowchart langsung di VSCode
+
+Git History
+- Liat history perubahan git dgn UI yg bagus
+
+indent-rainbow
+- Kasih warna beda tiap level indentasi spy lebih jelas
+
+JavaScript (ES6) code snippets
+- Snippet2 code JS modern yg sering dipake
+
+Live Server
+- Bikin local dev server + auto reload pas file diubah
+
+Material Icon Theme
+- Icon2 file & folder yg lebih bagus & jelas
+
+Multiple cursor case preserve
+- Pertahanin case (huruf besar/kecil) pas multi cursor
+
+Path Autocomplete
+- Auto complete path file/folder
+
+Path Intellisense  
+- Suggest path file/folder dgn pintar
+
+Pitch Black
+- Theme VSCode warna item pekat
+
+Prettier
+- Format code otomatis spy rapi & konsisten
+
+Project Manager
+- Manage multiple project dgn mudah
+
+REST Client
+- Test API request langsung dari VSCode
+
+WSL
+- Integrasi VSCode dgn Windows Subsystem for Linux
